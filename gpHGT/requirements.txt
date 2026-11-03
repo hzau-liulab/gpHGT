@@ -1,0 +1,11 @@
+# Versions were not supplied in the original script.
+# Install torch / torch-geometric / torch-scatter using mutually compatible builds.
+torch
+torch-geometric
+torch-scatter
+numpy
+pandas
+scikit-learn
+transformers
+timm
+tqdm
